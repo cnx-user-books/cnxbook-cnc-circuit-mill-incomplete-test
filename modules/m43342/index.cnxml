@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How to Use the CNC Circuit Mill</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43342</md:content-id>
+  <md:title>How to Use the CNC Circuit Mill</md:title>
+  <md:abstract>Overview of how to use the CNC Circuit Mill</md:abstract>
+  <md:uuid>620dd95a-bf0c-4c26-9295-5a5321fb2112</md:uuid>
+</metadata>
+
+<content>
+
+<para id="eip-714"><title>Draw a Circuit Schematic and Organize a PCB Layout</title></para>
+
+<media id="schematicpcb" alt="">
+   <image mime-type="image/gif" src="../../media/schematicpcb.gif"/>
+</media>
+
+<para id="eip-342"><title>Convert the PCB Layout to a Manufacturing File</title></para><media id="gcode" alt="">
+   <image mime-type="image/gif" src="../../media/gcode.gif"/>
+</media>
+
+<para id="eip-560"><title>Stream the Manufacturing File into the Electronics</title></para><media id="gctrlgui" alt="">
+   <image mime-type="image/png" src="../../media/GctrlGUI.png"/>
+</media>
+
+
+
+</content>
+
+</document>

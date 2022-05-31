@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What is a CNC Circuit Mill?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43337</md:content-id>
+  <md:title>What is a CNC Circuit Mill?</md:title>
+  <md:abstract>Overview of what a CNC Circuit Mill is.</md:abstract>
+  <md:uuid>c87889e9-95a2-4561-a858-fb1413a851d7</md:uuid>
+</metadata>
+
+<content>
+
+  <para id="eip-285"><title>What does the CNC Circuit Mill do?</title>The Computer-Numerical-Control Circuit Mill takes an input conductive laminate board such as the copper clad board shown below (this particular board has a top layer of copper and a bottom layer of a composite called FR-4, made of fibreglass cloth and epoxy resin).</para>
+
+<media id="coppercladboard" alt="copper clad board">
+   <image mime-type="image/jpeg" src="../../media/coppercladboard.jpg"/>
+   </media>
+
+<para id="eip-710">The CNC Circuit Mill turns the copper clad board into a milled circuit board as shown below.</para>
+
+<media id="milledcircuitboard" alt="milled circuit board">
+   <image mime-type="image/jpeg" src="../../media/milledcircuitboard.jpg"/>
+   </media>
+
+<para id="eip-366">Electronic components are soldered onto the milled circuit board to produce an assembled circuit board as shown below.</para>
+
+<media id="assembledcircuitboard" alt="">
+   <image mime-type="image/jpeg" src="../../media/assembledcircuitboard.jpg"/>
+   </media>
+
+<para id="eip-465"><title>How does the CNC Circuit Mill work?</title>A milling bit rotates at high speeds (thousands of revolutions per minute) and chips away parts of the conductive layer of the board. The milling depth is greater than the thickness of the conductive layer such that the circuit traces are completely electrically isolated. The function of the CNC Circuit Mill is automated because the milling process is computerized.
+</para>
+
+<media id="cnccircuitmilling" display="block" alt="cnccircuitmilling">
+  <flash id="cnccircuitmillingvideo" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/oEQsAi_eRAI&amp;hl=en&amp;fs=1&amp;rel=0" width="640" height="480">
+    <param name="allowscriptaccess" value="always"/>
+    <param name="allowsfullscreen" value="true"/>
+  </flash>
+</media>
+
+</content>
+
+</document>

@@ -1,0 +1,39 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11419</md:content-id>
+  <md:title>CNC Circuit Mill Incomplete Test</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>8dc02f8d-8595-4409-898c-2a3988f6f646</md:uuid>
+<md:slug>cnc-circuit-mill-incomplete-test</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m43337"/>
+        
+      
+    
+    
+      <col:module document="m43342"/>
+        
+      
+    
+    
+      <col:module document="m43353"/>
+        
+      
+    
+  </col:content>
+</col:collection>

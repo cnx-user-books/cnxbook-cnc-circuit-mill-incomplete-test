@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How to Design a CNC Circuit Mill</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43353</md:content-id>
+  <md:title>How to Design a CNC Circuit Mill</md:title>
+  <md:abstract/>
+  <md:uuid>84d0d706-ccdf-495c-9d5a-466128107fde</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>Holding the Circuit Board</title>The holding mechanism for the circuit board must keep the board flat, rigid, and in place. The industry standard for rigidity and fixed position is using round pins; the pins are pushed through holes in the circuit board (which must be drilled prior to this process) then through holes in the mounting surface. The industry standard for board flatness is using a solenoid-activated, pneumatic-damped press foot on the Z axis (up/down) such that wherever the milling bit is milling, the press foot is pressing the board flat.</para><para id="eip-558"><title>Moving and Rotating the Milling Bit</title>Moving the milling bit relative to the circuit board along 3 axes requires 3 precision drive setups (1 for each axis). Rotating the milling bit at high speeds requires 1 stable and low-friction drive setup. The industry standard for precision drive is the combination of polyphase stepper motor, precision leadscrew, and precision leadscrew nut. The industry standard for stable, low-friction drive is the combination of a high-speed AC motor, timing belt and pulleys, precision shaft and chuck, and ball bearings.</para><para id="eip-672"><title>Controlling the Drive Systems</title>The software and electronics must be able to precisely energize the drive systems. Drive system control is significantly involved with the usage of the CNC Circuit Mill, hence the control process must be streamlined and intuitive.</para><para id="eip-860"><title>Removing and Collecting Debris</title>A vacuum system that moves with the milling bit can remove debris from the working area; a debris-free milling process improves operator health and safety as well as the useful lifetime of the milling bit. An enclosed CNC Circuit Mill can ensure that debris does not scatter past the enclosed volume, further improving health and safety.</para>
+</content>
+
+</document>
